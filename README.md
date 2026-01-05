@@ -20,13 +20,15 @@ software architecture, real-time gameplay, and AI-controlled enemies.
 - MVC / DAO / SOLID architectural principles
 
 ## Project Structure
-digger/ – game source code
-report/ – technical report (PDF)
-media/ – gameplay video
+digger/client – game source code
+digger/shared – game source code
+digger/report/ – technical report (PDF)
+digger/media/ – gameplay video
 
 
 
 ## How to Run
+pip install pygame
 python main.py
 
 ## Assets & Licensing
