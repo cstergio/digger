@@ -1,15 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f4a96bc-2fa0-4d87-a283-7b223ec69ccd" name="Changes" comment="" />
+    <list default="true" id="1f4a96bc-2fa0-4d87-a283-7b223ec69ccd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/report/report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/digger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/digger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/menu/menu_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/menu/menu_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/assets/sprites/digger_player.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/assets/sprites/digger_player.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/controllers/input_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/controllers/input_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/input/input_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/input/input_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/effects/explosion.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/effects/explosion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/scenes/game_scene.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/scenes/game_scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/scenes/gameover_scene.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/scenes/gameover_scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/scenes/highscores_scene.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/scenes/highscores_scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/scenes/how_to_play_scene.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/scenes/how_to_play_scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/scenes/main_menu_scene.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/scenes/main_menu_scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/scenes/settings_scene.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/scenes/settings_scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/sprites/emerald_sprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/sprites/emerald_sprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/sprites/enemy_sprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/sprites/enemy_sprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/sprites/gold_bag_sprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/sprites/gold_bag_sprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/sprites/player_sprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/sprites/player_sprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/views/tilemap_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/views/tilemap_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/ai/enemy_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/ai/enemy_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/config/game_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/config/game_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/core/scene.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/core/scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/input/input_snapshot.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/input/input_snapshot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/bullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/gold_bag.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/gold_bag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/lives.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/lives.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/model/weapon.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/model/weapon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/persistence/score_repository.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/persistence/score_repository.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/audio_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/audio_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/bullet_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/bullet_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/difficulty_scaler.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/difficulty_scaler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/enemy_ai_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/enemy_ai_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/enemy_form_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/enemy_form_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/enemy_spawner.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/enemy_spawner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/gold_bag_push_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/gold_bag_push_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/gold_bag_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/gold_bag_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/grid_movement.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/grid_movement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/hobbin_digging_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/hobbin_digging_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/score_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/score_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/tile_interaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/tile_interaction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/services/weapon_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/shared/services/weapon_system.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cstergio&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cstergio/digger.git&quot;,
+    &quot;accountId&quot;: &quot;95f7722a-25fa-4dc9-b64e-a08e12c31496&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="37QhmMao1GYF4q6dgajzisQPyDD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,14 +94,73 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Charis/PycharmProjects/digger/report",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Charis\PycharmProjects\digger\report" />
+      <recent name="C:\Users\Charis\PycharmProjects\digger\client\assets\menu" />
+      <recent name="C:\Users\Charis\PycharmProjects\digger\client\assets\audio" />
+      <recent name="C:\Users\Charis\PycharmProjects\digger\client\assets\sprites" />
+      <recent name="C:\Users\Charis\PycharmProjects\digger\client\views\sprites" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Charis\PycharmProjects\digger\client\assets\menu" />
+      <recent name="C:\Users\Charis\PycharmProjects\digger\client\assets\sprites" />
+      <recent name="C:\Users\Charis\PycharmProjects\digger\client\views\sprites" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="digger" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -40,10 +176,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766841359228</updated>
+      <workItem from="1766841360258" duration="37870000" />
+      <workItem from="1766994202421" duration="43342000" />
+      <workItem from="1767458104198" duration="49614000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7e91376a-cfa5-4623-865c-d8a2fee0da07" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7e91376a-cfa5-4623-865c-d8a2fee0da07">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="41e0c1e8dd63a1370ed8a25f0e05e0ee0a8e22db..fa1e7777acff6ecb26ee4afe352495ec7b503baf" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/digger$main.coverage" NAME="main Coverage Results" MODIFIED="1767651779720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
   </component>
 </project>
