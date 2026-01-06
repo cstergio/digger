@@ -23,7 +23,7 @@ software architecture, real-time gameplay, and AI-controlled enemies.
 - digger/client – game source code
 - digger/shared – game source code
 - digger/report/ – technical report (PDF)
-- digger/media/ – gameplay video
+- digger/report/ – gameplay video
 
 
 ## How to Run
